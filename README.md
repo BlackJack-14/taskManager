@@ -72,7 +72,7 @@ taskManager/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BlackJack-14/taskManager
 cd taskManager
 ```
 
